@@ -1,4 +1,4 @@
 //your JS code here. If required.
-function displa() {
-	'First Name:'+document.getElementById('fname').value
+function display() {alert("
+	'First Name:'+document.getElementById('fname').value");
 }
